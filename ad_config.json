@@ -1,6 +1,6 @@
 {
-  "adsEnabled": false,
-  "useTestAds": false,
+  "adsEnabled": true,
+  "useTestAds": true,
   "bannerEnabled": true,
   "interstitialEnabled": true,
   "nativeEnabled": false,
