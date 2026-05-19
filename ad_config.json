@@ -1,0 +1,14 @@
+{
+  "adsEnabled": true,
+  "useTestAds": true,
+  "bannerEnabled": true,
+  "interstitialEnabled": true,
+  "nativeEnabled": false,
+  "appOpenEnabled": false,
+  "bannerAdUnitIdAndroid": "ca-app-pub-3940256099942544/6300978111",
+  "interstitialAdUnitIdAndroid": "ca-app-pub-3940256099942544/1033173712",
+  "appOpenAdUnitIdAndroid": "ca-app-pub-3940256099942544/9257395921",
+  "interstitialEveryActions": 4,
+  "privacyPolicyUrl": "",
+  "contactEmail": "sutrisno.mlati@gmail.com"
+}
