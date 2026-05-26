@@ -1,14 +1,14 @@
 {
-  "adsEnabled": false,
+  "adsEnabled": true,
   "useTestAds": false,
   "bannerEnabled": true,
   "interstitialEnabled": true,
-  "nativeEnabled": false,
-  "appOpenEnabled": false,
-  "bannerAdUnitIdAndroid": "ca-app-pub-3940256099942544/6300978111",
-  "interstitialAdUnitIdAndroid": "ca-app-pub-3940256099942544/1033173712",
-  "appOpenAdUnitIdAndroid": "ca-app-pub-3940256099942544/9257395921",
+  "nativeEnabled": true,
+  "appOpenEnabled": true,
+  "bannerAdUnitIdAndroid": "ca-app-pub-5228015934501477/7328772123",
+  "interstitialAdUnitIdAndroid": "ca-app-pub-5228015934501477/1194608610",
+  "appOpenAdUnitIdAndroid": "ca-app-pub-5228015934501477/4904220778",
   "interstitialEveryActions": 3,
-  "privacyPolicyUrl": "",
+  "privacyPolicyUrl": "https://sites.google.com/view/privacypolicyhuaweiwatchfitapp/home",
   "contactEmail": "sutrisno.mlati@gmail.com"
 }
